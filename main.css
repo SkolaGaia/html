@@ -1,0 +1,24 @@
+.menu {
+    height: 50px;
+    background-color: blue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+li {
+    float: left;
+    margin: 15px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+a:hover {
+    background-color: aqua;
+    color: black;
+}
+body {
+    margin: 0;
+}
